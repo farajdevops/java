@@ -1,5 +1,5 @@
 package com.training.example.JacocoExample;
-package
+
 
 public class Palindrome {
 	
