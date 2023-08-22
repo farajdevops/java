@@ -1,6 +1,6 @@
 package com.training.example.JacocoExample;
 
-
+package
 public class Palindrome {
 	
 	public boolean isPalindrome(String inputString) {
